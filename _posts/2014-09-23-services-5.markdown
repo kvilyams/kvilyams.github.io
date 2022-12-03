@@ -2,7 +2,8 @@
 layout: default
 img: ouhlala.jpg
 category: Services
-title: Google Web Fonts and<br>Font Awesome Icons
+title: Ouhlala Le Shop <br>Ouhlala Foam Mirror
 description: |
 ---
-This template features the 'Lato' font, part of the [Google Web Font library](http://www.google.com/fonts), as well as [icons from Font Awesome](http://fontawesome.io).
+Ouhlala, is an Paris based online gallery / boutique supporting artists and designers who work to shake up and sublimate our daily lives, by offering unique pieces of their kind, between art and design.
+The gallary has been created by Carole Hours, a stylist, trendsetter, creative director and consultant for trend offices and many brands for the last 12 years, and Frans McCabe, her best best partner, co-founder, and creative director at Rosbeef. 
