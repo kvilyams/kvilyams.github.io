@@ -2,9 +2,8 @@
 layout: default
 img: zona-johna.jpg
 category: Services
-title: 3D Device Mockups<br>by PSDCovers
+title: Zona Johna<br>Zona Johna Buckethat
 description: |
 ---
-  Turn your 2D designs into high quality, 3D
-  product shots in seconds using free Photoshop actions by [PSDCovers](http://www.psdcovers.com/)! Visit
-  their website to download some of their awesome, free photoshop actions!
+  Aleksandra Rałowska, or Zona Johna, is a creator who realizes herself as a designer of clothes and accessories for girls. Its brand originates from girls' workshops supporting creativity and from therapeutic sewing and embroidering of headbands. Today, Aleksandra invents dresses from old materials from the People's Republic of Poland, sews joy into hair accessories and makes rings from modeling clay.
+
