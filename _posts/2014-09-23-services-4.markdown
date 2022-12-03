@@ -1,6 +1,5 @@
 ---
 layout: default
-img: dog.png
 img: zona-johna.jpg
 category: Services
 title: 3D Device Mockups<br>by PSDCovers
