@@ -5,4 +5,4 @@ category: Services
 title: Dollchunk<br>Doll Parts
 description: |
 ---
-  Dollchunk is a New York based jewelry brand founded by a fashion and beauty writer, editor, and consultant Kristen Bateman in 2021. Dollchunk celebrates the celestialness of being puffy, the bright supernal outlook of all things rotund and happy. 
+  Dollchunk is a New York based jewelry brand founded in 2021 by a fashion and beauty writer, editor, and consultant Kristen Bateman whose work has appeared in The New York Times, Vogue US, W Magazine, New York Magazine, V Magazine, Glamour, Harper's Bazaar, Dazed, i-D magazine, Marie Claire, Glamour, Architectural Digest, Elle, Man Repeller, L'Officiel and more.. Dollchunk celebrates the celestialness of being puffy, the bright supernal outlook of all things rotund and happy.
