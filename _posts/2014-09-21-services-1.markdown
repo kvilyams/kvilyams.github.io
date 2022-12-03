@@ -5,4 +5,4 @@ category: Services
 title: Dollchunk<br>Doll Parts
 description: |
 ---
-  Dollchunk is a New York based jewelry brand founded by a fashion and beauty writer, editor, and consultant Kristen Bateman in 2021. Dollchunk celebrates the celestialness of being puffy, the bright supernal outlook of all things rotund and happy. Their dollhouse designs and handcrafts everything in New York City, in limited batches. 
+  Dollchunk is a New York based jewelry brand founded by a fashion and beauty writer, editor, and consultant Kristen Bateman in 2021. Dollchunk celebrates the celestialness of being puffy, the bright supernal outlook of all things rotund and happy. 
