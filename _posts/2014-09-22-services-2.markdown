@@ -1,8 +1,8 @@
 ---
 layout: default
-img: susan-alexandra.jpg
+img: dollchunk.jpg
 category: Services
-title: Susan Alexandra<br>Butterfly Effect
+title: Dollchunk<br>Doll Parts
 description: |
 ---
-  Susan Alexandra is a New York-based accessories brand by designer Susan Korn, whose irresistibly kitschy bags and accessories she produces are extremely compelling. They are beloved by fashion influencers around the world, and worn by Gigi Hadid, Emma Chamberlain, Pete Davidson and more. She is dedicated to bringing sparkle and joy to everyday life, the world of glittery, candy-colored universe of her own making.
+  Dollchunk is a New York based jewelry brand founded in 2021 by a fashion and beauty writer, editor, and consultant Kristen Bateman whose work has appeared in The New York Times, Vogue US, W Magazine, New York Magazine, V Magazine, Glamour, Harper’s Bazaar, Dazed, i-D magazine, Marie Claire, Glamour, Architectural Digest, Elle, Man Repeller, L’Officiel and more. Dollchunk celebrates the celestialness of being puffy, the bright supernal outlook of all things rotund and happy.
