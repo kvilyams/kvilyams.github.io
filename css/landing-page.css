@@ -127,6 +127,12 @@ h6 {
     border-top: 1px solid #ffdff7;
     border-bottom: 1px solid #ffdff7;
 }
+
+.content-section-d {
+    padding: 50px 0;
+    border-top: 1px solid #ffffff;
+    border-bottom: 1px solid #ffffff;
+}
 .section-heading {
     margin-bottom: 30px;
 }
