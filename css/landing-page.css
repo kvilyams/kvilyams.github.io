@@ -17,13 +17,13 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Apercu,"Apercu",Helvetica,Arial,sans-serif;
+    font-family: Apercu,"Apercu";
     font-weight: 700;
 }
 
 @font-face {
   font-family: Apercu;
-  src: url(apercu-regular1.otf);
+  src: url(apercu-regular.otf);
 }
 
 .lead {
