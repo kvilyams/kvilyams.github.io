@@ -1,7 +1,6 @@
 ---
 layout: default
-background: url(../img/banner-bg.jpg) no-repeat center center;
-background-size: cover
+img: 
 category: Services
 title:  <br>
 description: |
