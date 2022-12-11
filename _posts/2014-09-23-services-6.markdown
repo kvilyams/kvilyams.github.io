@@ -3,6 +3,7 @@ layout: default
 img: thug-pop.jpg
 category: Services
 title: ThugPop<br>YOUR MISAMISA
+style: f
 description: |
 ---
   Christen Mooney is a muse, artist, creative. He has been working with the world famous fashion brands and designers as Jean Paul Gaultier, Lotta Volkova, Telfar, Hood By Air, Anonymous Club and more. A singer-songwriter who got emerged with an intangible, beautiful armor in the form of ThugPop. 
