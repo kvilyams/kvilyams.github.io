@@ -3,6 +3,7 @@ layout: default
 img: thugpop.jpg
 category: Services
 title: ThugPop<br>DOLL ON A FARM
+style: c
 description: |
 ---
 Christen Mooney is a muse, artist, creative. He has been working with the world famous fashion brands and designers as Jean Paul Gaultier, Lotta Volkova, Telfar, Hood By Air, Anonymous Club and more. A singer-songwriter who got emerged with an intangible, beautiful armor in the form of ThugPop. 
