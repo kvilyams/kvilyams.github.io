@@ -3,6 +3,7 @@ layout: default
 img: zona-johna.jpg
 category: Services
 title: Zona Johna<br>Zona Johna Buckethat
+style: d
 description: |
 ---
   Aleksandra Rałowska, or Zona Johna designs her own hair ornaments in which all Instagram loves, promotes the second-hand clothing market, and treats the fashion world with a pinch of salt, deftly stripping it of the pompous cliché. Zona Johna - today one of the most recognizable characters on the Polish Internet.
