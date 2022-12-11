@@ -100,39 +100,29 @@ h6 {
 
 .content-section-b {
     padding: 50px 0;
-    border-top: 1px solid #ffffff;
-    border-bottom: 1px solid #ffffff;
+    background-color: #ffffff;
 }
 
 .content-section-c {
     padding: 50px 0;
-    border-top: 1px solid #ff7fde;
-    border-bottom: 1px solid #ff7fde;
+    background-color: #ff7fde;
 }
 
 .content-section-d {
     padding: 50px 0;
-    border-top: 1px solid #f8bfd0;
-    border-bottom: 1px solid #f8bfd0;
+    background-color: #f8bfd0;
 }
 
 .content-section-e {
     padding: 50px 0;
-    border-top: 1px solid #e5ff00;
-    border-bottom: 1px solid #e5ff00;
+    background-color: #e5ff00;
 }
 
 .content-section-f {
     padding: 50px 0;
-    border-top: 1px solid #ffdff7;
-    border-bottom: 1px solid #ffdff7;
+    background-color: #ffdff7;
 }
 
-.content-section-d {
-    padding: 50px 0;
-    border-top: 1px solid #ffffff;
-    border-bottom: 1px solid #ffffff;
-}
 .section-heading {
     margin-bottom: 30px;
 }
