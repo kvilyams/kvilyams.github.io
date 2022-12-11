@@ -1,7 +1,8 @@
 <section id="services">
 <!-- Page Content -->
 {% for post in site.posts reversed %}
-    <div class="content-section-{{ post.style }}">
+<!--    <div class="content-section-{{ post.style }}">-->
+    <div class="content-section-c">
   {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
     {% if thecycle == 'odd' %}
 <!--    <div class="content-section-a">-->
