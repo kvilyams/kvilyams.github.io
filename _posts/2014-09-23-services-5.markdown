@@ -3,6 +3,7 @@ layout: default
 img: ouhlala.jpg
 category: Services
 title: Ouhlala Le Shop <br>Ouhlala Foam Mirror
+style: e
 description: |
 ---
 Ouhlala, is an Paris based online gallery / boutique supporting artists and designers who work to shake up and sublimate our daily lives, by offering unique pieces of their kind, between art and design.
