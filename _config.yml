@@ -23,11 +23,14 @@ permalink: pretty
 
 social:
   - title: instagram
-    url: https://twitter.com/SBootstrap
+    url: https://www.instagram.com/kristinavilyams/
     img: instagram.png
+  - title: tiktok
+    url: https://www.tiktok.com/@kristinavilyams/
+    img: tiktok.png
   - title: pinterest
-    url: https://github.com/IronSummitMedia/startbootstrap
+    url: https://www.pinterest.com/kristinavilyams/
     img: pinterest.png
-  - title: linkedin
-    url: https://github.com/IronSummitMedia/startbootstrap
-    img: linkedin.png
+  - title: youtube
+    url: https://www.youtube.com/channel/UC-XdUWe4yQVmML7Gy6UUhdA
+    img: youtube.png
