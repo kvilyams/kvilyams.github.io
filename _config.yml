@@ -22,9 +22,12 @@ permalink: pretty
 # ----------------------- #
 
 social:
-  - title: twitter
+  - title: instagram
     url: https://twitter.com/SBootstrap
-  - title: github
+    img: instagram
+  - title: pinterest
     url: https://github.com/IronSummitMedia/startbootstrap
+    img: pinterest
   - title: linkedin
-    url: 
+    url: https://github.com/IronSummitMedia/startbootstrap
+    img: linkedin
