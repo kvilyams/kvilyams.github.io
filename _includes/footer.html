@@ -13,10 +13,18 @@
 					<ul class="list-inline banner-social-buttons">
 						{% for social in site.social %}
                         
+                        <li>
+							<a href="{{ social.url }}">
+                            <img src="https://github.com/kvilyams/kvilyams.github.io/blob/master/img/services/pinterest.png" alt="{{ social.title }}">
+                            </a>
+						</li>
+                        
+<!--
                         <a href="{{ social.url }}">
                         <img class="img-responsive" src="img/services/{{ social.img }}" alt="">
-<!--                            <i class="fa fa-{{ social.title }} fa-fw"></i> -->
+                            <i class="fa fa-{{ social.title }} fa-fw"></i> 
                         </a>
+-->
                         
 <!--
 						<li>
