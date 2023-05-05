@@ -195,8 +195,13 @@ h6 {
 }
 
 footer {
-    padding: 100px 100px;
+    padding: 132px 100px;
     background-color: #000000;
+    font-family: 'Apercu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 19px;
 }
 
 .social-icons {
