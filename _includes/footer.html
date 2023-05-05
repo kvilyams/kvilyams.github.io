@@ -1,14 +1,16 @@
 <!-- Footer -->
 <footer>
-    <ul class="social-icons">
-        {% for social in site.social %}
-        <li>
-            <a href="{{ social.url }}" target="_blank">
-            <img src="img/services/{{ social.img }}" alt="{{ social.title }}">
-            </a>
-        </li>
-        {% endfor %}
-    </ul>
+    <div class="container">
+        <ul class="social-icons">
+            {% for social in site.social %}
+            <li>
+                <a href="{{ social.url }}" target="_blank">
+                <img src="img/services/{{ social.img }}" alt="{{ social.title }}">
+                </a>
+            </li>
+            {% endfor %}
+        </ul>
+    </div>
 </footer>
     
 <!---    <center>
