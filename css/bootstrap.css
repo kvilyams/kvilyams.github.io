@@ -1234,8 +1234,7 @@ ol ol {
   list-style: none;
 }
 .list-inline {
-  padding-left: 0;
-  margin-left: -5px;
+  text-align: center;
   list-style: none;
 }
 .list-inline > li {
