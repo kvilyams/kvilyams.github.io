@@ -4,6 +4,13 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+@font-face {
+  font-family: 'Apercu';
+  src: url('fonts/apercu-regular.otf') format('opentype');
+  font-weight: normal;
+  font-style: normal;
+}
+
 body,
 html {
     width: 100%;
@@ -17,14 +24,16 @@ h3,
 h4,
 h5,
 h6 {
-    font-family: Apercu,"Apercu",Helvetica,Arial,sans-serif;
-    font-weight: 700;
+    font-family: 'Apercu',Helvetica,Arial,sans-serif;
+/*    font-weight: 700;*/
 }
 
+/*
 @font-face {
   font-family: Apercu;
   src: url(apercu-regular.otf);
 }
+*/
 
 .lead {
     font-size: 18px;
