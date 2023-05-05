@@ -4,12 +4,23 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
+@font-face  {
+    font-family: 'Apercu';
+    src: url('Apercu.eot');
+    src: url('Apercu.eot?#iefix') format('embedded-opentype'),
+    url('Apercu.woff') format('woff'),
+    url('Apercu.ttf') format('truetype'),
+    url('Apercu.svg#webfont') format('svg');
+}
+
+/*
 @font-face {
   font-family: 'Apercu';
   src: url('fonts/apercu-regular.otf') format('opentype');
   font-weight: normal;
   font-style: normal;
 }
+*/
 
 body,
 html {
