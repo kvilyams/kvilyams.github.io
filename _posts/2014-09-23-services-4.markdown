@@ -6,5 +6,5 @@ title: Zona Johna<br>Zona Johna Buckethat
 style: d
 description: |
 ---
-  Aleksandra Ralowska, or Zona Johna designs her own hair ornaments in which all Instagram loves, promotes the second-hand clothing market, and treats the fashion world with a pinch of salt, deftly stripping it of the pompous cliché. Zona Johna - today one of the most recognizable characters on the Polish Internet. We collaborated with Zona Johna in early 2020 to develop an AR try-on filter for their signature pink bucket hat with the Zona Johna logo. Our aim was to create an interactive filter that would allow users to try on the hat and see how it looks on them in real-time. Despite the challenges of working with limited capabilities, we successfully designed a filter with a virtual bucket hat that moved with the user's head, giving a realistic try-on experience.
+  Zona Johna is a Polish hair accessories brand that has gained a strong following for its unique style and promotion of sustainable fashion. In early 2020, we collaborated with Zona Johna to create an AR try-on filter for their signature pink bucket hat with the Zona Johna logo. Our aim was to create an interactive filter that would allow users to try on the hat and see how it looks on them in real-time.
 
