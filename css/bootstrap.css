@@ -3883,8 +3883,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     padding: 15px 15px;
     font-style: normal;
     font-weight: 700;
-    font-size: 26px;
-    line-height: 32px;
+    font-size: 20px;
+    line-height: 25px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
