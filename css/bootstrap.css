@@ -3929,8 +3929,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     margin: 7.5px -15px;
     font-style: normal;
     font-weight: 500;
-    font-size: 22px;
-    line-height: 27px;
+    font-size: 20px;
+    line-height: 25px;
 }
 .navbar-nav > li > a {
   padding-top: 10px;
