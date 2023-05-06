@@ -3775,6 +3775,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 @media (min-width: 768px) {
   .navbar {
     border-radius: 4px;
+      
+    position: relative;
+    min-height: 70px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    border-bottom: 0.6px solid #222222;
   }
 }
 @media (min-width: 768px) {
