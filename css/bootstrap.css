@@ -3883,8 +3883,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     padding: 15px 15px;
     font-style: normal;
     font-weight: 700;
-    font-size: 14px;
-    line-height: 17px;
+    font-size: 16px;
+    line-height: 20px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -3929,8 +3929,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     margin: 7.5px -15px;
     font-style: normal;
     font-weight: 500;
-    font-size: 14px;
-    line-height: 17px;
+    font-size: 16px;
+    line-height: 20px;
 }
 .navbar-nav > li > a {
   padding-top: 10px;
