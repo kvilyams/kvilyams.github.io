@@ -3767,7 +3767,7 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar {
     position: relative;
-    min-height: 70px;
+    min-height: 53px;
     background-color: #ffffff;
     margin-bottom: 20px;
     border-bottom: 0.6px solid #222222;
@@ -3879,12 +3879,12 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
     float: left;
-    height: 70px;
+    height: 53px;
     padding: 15px 15px;
     font-style: normal;
     font-weight: 700;
-    font-size: 32px;
-    line-height: 40px;
+    font-size: 26px;
+    line-height: 32px;
 }
 .navbar-brand:hover,
 .navbar-brand:focus {
@@ -3929,8 +3929,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
     margin: 7.5px -15px;
     font-style: normal;
     font-weight: 500;
-    font-size: 26px;
-    line-height: 32px;
+    font-size: 22px;
+    line-height: 27px;
 }
 .navbar-nav > li > a {
   padding-top: 10px;
