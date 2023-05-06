@@ -3766,17 +3766,19 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   border-top-right-radius: 0;
 }
 .navbar {
-  position: relative;
-  min-height: 70px;
-  background-color: #ffffff;
-  margin-bottom: 20px;
-  border-bottom: 0.6px solid #222222;
+    position: relative;
+    min-height: 70px;
+    background-color: #ffffff;
+    margin-bottom: 20px;
+    border-bottom: 0.6px solid #222222;
     
+/*
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
     line-height: 40px;
     color: #000000;
+*/
 }
 @media (min-width: 768px) {
   .navbar {
@@ -3893,9 +3895,8 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 }
 .navbar-brand {
     float: left;
-    height: 50px;
-    padding: 15px 15px;    
-    font-family: 'Apercu';
+    height: 70px;
+    padding: 15px 15px;
     font-style: normal;
     font-weight: 700;
     font-size: 32px;
