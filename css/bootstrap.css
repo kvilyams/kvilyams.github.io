@@ -3941,12 +3941,17 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   }
 }
 .navbar-nav {
-  margin: 7.5px -15px;
+    margin: 7.5px -15px;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 26px;
+    line-height: 32px;
+    color: #000000;
 }
 .navbar-nav > li > a {
   padding-top: 10px;
   padding-bottom: 10px;
-  line-height: 20px;
+/*  line-height: 20px;*/
 }
 @media (max-width: 767px) {
   .navbar-nav .open .dropdown-menu {
