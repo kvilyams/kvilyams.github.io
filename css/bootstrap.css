@@ -3915,12 +3915,6 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-position: center;
 }
 
-/*
-    background-image: url(../img/icons/mobile-menu-icon.png) no-repeat;
-    width: 24px;
-    height: 24px;
-*/
-
 .navbar-toggle:focus {
   outline: 0;
 }
@@ -4146,11 +4140,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-color: transparent;
 }
 .navbar-default .navbar-toggle {
-  border-color: #ddd;
+  border-color: transparent;
 }
 .navbar-default .navbar-toggle:hover,
 .navbar-default .navbar-toggle:focus {
-  background-color: #ddd;
+  background-color: transparent;
 }
 .navbar-default .navbar-toggle .icon-bar {
   background-color: #888;
