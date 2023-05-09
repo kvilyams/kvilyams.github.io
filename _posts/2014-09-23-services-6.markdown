@@ -1,6 +1,6 @@
 ---
 layout: default
-img: thug-pop.jpg
+img: thug-pop.png
 category: Services
 title: ThugPop<br>YOUR MISAMISA
 style: f
