@@ -1,6 +1,6 @@
 ---
 layout: default
-img: thugpop.jpg
+img: thugpop.png
 category: Services
 title: ThugPop<br>DOLL ON A FARM
 style: c
