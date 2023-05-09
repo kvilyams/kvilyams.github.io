@@ -1,6 +1,6 @@
 ---
 layout: default
-img: susan-alexandra.jpg
+img: susan-alexandra.png
 category: Services
 title: Susan Alexandra<br>Butterfly Effect
 style: a
