@@ -3907,7 +3907,11 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
   background-image: none;
   border: 1px solid transparent;
   border-radius: 4px;
+    background-image: url(../img/icons/mobile-menu-icon.png) no-repeat;
+    width: 24px;
+    height: 24px;
 }
+
 .navbar-toggle:focus {
   outline: 0;
 }
