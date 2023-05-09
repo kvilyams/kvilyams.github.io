@@ -3899,20 +3899,18 @@ select[multiple].input-group-sm > .input-group-btn > .btn {
 .navbar-toggle {
   position: relative;
   float: right;
-/*  padding: 9px 10px;*/
-/*
+  padding: 9px 10px;
   margin-top: 8px;
   margin-right: 15px;
   margin-bottom: 8px;
-*/
   background-color: #FFFFFF;
-/*
   border: 1px solid transparent;
   border-radius: 4px;
-*/
+/*
     background-image: url(../img/icons/mobile-menu-icon.png) no-repeat;
     width: 24px;
     height: 24px;
+*/
 }
 
 .navbar-toggle:focus {
