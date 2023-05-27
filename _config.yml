@@ -36,18 +36,18 @@ social:
     img: youtube.png
     
 articles:
-    - title: meta
+  - title: meta
     url: https://www.facebook.com
     img: meta.png
-    - title: ballet-season
+  - title: ballet-season
     url: https://www.facebook.com
     img: ballet-season.png
-    - title: architectural-digest
+  - title: architectural-digest
     url: https://www.facebook.com
     img: architectural-digest.png
-    - title: lenslist
+  - title: lenslist
     url: https://www.facebook.com
     img: lenslist.png
-    - title: yahoo
+  - title: yahoo
     url: https://www.facebook.com
     img: yahoo.png
