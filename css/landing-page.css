@@ -257,3 +257,28 @@ p.copyright {
   width: 40px;
   height: 40px;
 }
+
+.articles-icons {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+.articles-icons li {
+  display: inline-block;
+  margin: 0 10px;
+}
+
+.articles-icons li a {
+  display: block;
+  width: 300px;
+  height: 300px;
+  border-radius: 50%;
+}
+
+.articles-icons li a img {
+  display: block;
+  width: 300px;
+  height: 300px;
+}
