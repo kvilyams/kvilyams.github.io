@@ -272,15 +272,22 @@ p.copyright {
 
 .articles-icons li a {
   display: block;
-/*
   width: 300px;
   height: 300px;
-*/
   border-radius: 50%;
 }
 
+/*
 .articles-icons li a img {
   display: block;
   width: 300px;
   height: 300px;
+}
+*/
+
+.articles-icons li a img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
 }
