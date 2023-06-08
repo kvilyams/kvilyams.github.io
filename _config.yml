@@ -34,3 +34,20 @@ social:
   - title: youtube
     url: https://www.youtube.com/channel/UC-XdUWe4yQVmML7Gy6UUhdA
     img: youtube.png
+    
+articles:
+  - title: meta
+    url: https://www.facebook.com
+    img: meta.png
+  - title: ballet-season
+    url: https://www.facebook.com
+    img: ballet-season.png
+  - title: architectural-digest
+    url: https://www.facebook.com
+    img: architectural-digest.png
+  - title: lenslist
+    url: https://www.facebook.com
+    img: lenslist.png
+  - title: yahoo
+    url: https://www.facebook.com
+    img: yahoo.png

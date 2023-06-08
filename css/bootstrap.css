@@ -1125,6 +1125,12 @@ mark,
   padding: .2em;
   background-color: #fcf8e3;
 }
+.container-about {
+  padding: 150px 0;
+  display: flex;
+  justify-content: right;
+  align-items: right;
+}
 .text-left {
   text-align: left;
 }

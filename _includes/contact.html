@@ -1,8 +1,25 @@
 <section id="contact">
+    
+    <div class="container" style="margin-bottom: 50px;margin-top: 50px;">
+        <div class="row">
+            <ul class="articles-icons">
+                {% for article in site.articles %}
+                <li>
+                    <a href="{{ article.url }}" target="_blank">
+                    <img src="img/services/{{ article.img }}" alt="{{ article.title }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+    
+<!--
 	<div class="banner">
 		<div class="container">
 
 			<div class="row">
+-->
 <!--
 				<div class="col-lg-6">
 					<h2>Keep in Touch:</h2>
@@ -20,11 +37,13 @@
 					</ul>
 				</div>
 -->
+<!--
 			</div>
 
 		</div>
-		<!-- /.container -->
+		 /.container 
 
 	</div>
+-->
 </section>
 <!-- /.banner -->
