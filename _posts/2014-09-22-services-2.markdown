@@ -6,4 +6,4 @@ title: Dollchunk<br>Doll Parts
 style: b
 description: |
 ---
-  Dollchunk is a NYC-based jewelry brand founded in 2021 by Kristen Bateman, a fashion and beauty writer and editor whose work has appeared in top publications. Our team collaborated with Dollchunk to create The Doll Parts, an AR try-on filter showcasing their whimsical jewelry collection. Users can virtually try on rings and choose from a variety of makeup options. 
+  In early 2022, we collaborated with Dollchunk to create the Doll Parts, an innovative AR try-on filter showcasing their whimsical jewelry collection. 
