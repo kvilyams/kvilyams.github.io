@@ -6,5 +6,5 @@ title: Zona Johna<br>Zona Johna Buckethat
 style: d
 description: |
 ---
-  Zona Johna is a Polish hair accessories brand that has gained a strong following for its unique style and promotion of sustainable fashion. In early 2020, we collaborated with Zona Johna to create an AR try-on filter for their signature pink bucket hat with the Zona Johna logo. Our aim was to create an interactive filter that would allow users to try on the hat and see how it looks on them in real-time.
+  In early 2020, we collaborated with Zona Johna, a Polish hair accessories brand, to create an AR try-on filter for their signature pink bucket hat.
 
