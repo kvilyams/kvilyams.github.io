@@ -57,6 +57,9 @@ h6 {
     text-align: center;
     color: #F8E0DC;
     background: url(../img/intro-bg.jpg) no-repeat center center;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
 /*    background-size: cover;*/
     
 /*
