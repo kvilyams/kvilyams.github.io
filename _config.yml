@@ -36,9 +36,9 @@ social:
     img: youtube.png
     
 articles:
-  - title: meta
-    url: https://www.facebook.com
-    img: meta.png
+#  - title: meta
+#    url: https://www.facebook.com
+#    img: meta.png
   - title: ballet-season
     url: https://www.ballet-season.com/good-brands/good-brands-with-ui/ux-designer-kristina-vilyams-pz7ls?fbclid=IwAR2gB3LUxJUVQHhQGk78IrSEqglLekn6yquNZicAtNyg3KazwFNhQNahJ1A
     img: ballet-season.png
