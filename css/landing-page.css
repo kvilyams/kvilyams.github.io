@@ -280,7 +280,8 @@ p.copyright {
 
 .articles-icons li {
   display: inline-block;
-  margin: 0 10px;
+/*  margin: 0 10px;*/
+  margin: 0 80px;
 }
 
 .articles-icons li a {
