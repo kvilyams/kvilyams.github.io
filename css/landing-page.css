@@ -277,6 +277,7 @@ p.copyright {
 .articles-icons li a {
   display: block;
 /*  width: 300px;*/
+  max-width: 200px;
   max-height: 200px;
 /*  height: 300px;*/
   border-radius: 50%;
