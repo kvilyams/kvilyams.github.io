@@ -267,6 +267,15 @@ p.copyright {
   margin: 0;
   padding: 0;
   text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+/*
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+*/
 }
 
 .articles-icons li {
@@ -275,29 +284,14 @@ p.copyright {
 }
 
 .articles-icons li a {
-  display: block;
-/*  width: 300px;*/
+/*  display: block;*/
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 200px;
   max-height: 200px;
-/*  height: 300px;*/
   border-radius: 50%;
 }
-
-/*
-.articles-icons li a {
-  display: block;
-  width: 300px;
-  height: 300px;
-  border-radius: 50%;
-}
-*/
-
-/*
-.articles-icons li a img {
-  display: block;
-  width: 300px;
-  height: 300px;
-}
-*/
 
 .articles-icons li a img {
   display: block;
