@@ -270,22 +270,14 @@ p.copyright {
   display: flex;
   justify-content: center;
   align-items: center;
-/*
-  list-style: none;
-  margin: 0;
-  padding: 0;
-  text-align: center;
-*/
 }
 
 .articles-icons li {
   display: inline-block;
-/*  margin: 0 10px;*/
-  margin: 0 80px;
+  margin: 0 40px;
 }
 
 .articles-icons li a {
-/*  display: block;*/
   display: flex;
   justify-content: center;
   align-items: center;
@@ -295,6 +287,37 @@ p.copyright {
 }
 
 .articles-icons li a img {
+  display: block;
+  max-width: 100%;
+  max-height: 100%;
+  object-fit: contain;
+}
+
+.collaborations-icons {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.collaborations-icons li {
+  display: inline-block;
+  margin: 0 40px;
+}
+
+.collaborations-icons li a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  max-width: 200px;
+  max-height: 200px;
+  border-radius: 50%;
+}
+
+.collaborations-icons li a img {
   display: block;
   max-width: 100%;
   max-height: 100%;
