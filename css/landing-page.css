@@ -131,6 +131,13 @@ h6 {
     padding: 0;
 }
 
+.content-collaborations-list {
+    margin-top: 50px;
+    margin-bottom: 70px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
 .content-section-a {
     padding: 50px 0;
     background-color: #ffffff;
