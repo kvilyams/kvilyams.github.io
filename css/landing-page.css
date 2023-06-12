@@ -127,6 +127,8 @@ h6 {
 .content-collaborations {
     background-color: #f8f8f8;
     height: 100%;
+    margin: 0;
+    padding: 0;
 }
 
 .content-section-a {
