@@ -132,8 +132,12 @@ h6 {
 }
 
 .content-collaborations-list {
+/*
     margin-top: 50px;
     margin-bottom: 70px;
+*/
+    padding-top: 50px;
+    padding-bottom: 70px;
     margin-right: auto;
     margin-left: auto;
 }
