@@ -1,6 +1,6 @@
 ---
 layout: default
-img: ouhlala.jpg
+img: ouhlala.png
 category: Services
 title: Ouhlala Le Shop <br>Ouhlala Foam Mirror
 style: e
