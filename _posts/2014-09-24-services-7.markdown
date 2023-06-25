@@ -1,0 +1,9 @@
+---
+layout: default
+img: ouhlala.png
+category: Services
+title: Ouhlala Le Shop <br>Ouhlala Foam Mirror
+style: e
+description: |
+---
+During the 2020 lockdown, we developed the Ouhlala Foam Mirror filter, an innovative and creative solution to bring the whimsical spirit of Ouhlala into people’s homes.
