@@ -1,0 +1,15 @@
+<section id="press">
+    <div class="container" style="margin-bottom: 70px;margin-top: 70px;">
+        <div class="row">
+            <ul class="articles-icons">
+                {% for article in site.articles %}
+                <li>
+                    <a href="{{ article.url }}" target="_blank">
+                    <img src="img/services/{{ article.img }}" alt="{{ article.title }}">
+                    </a>
+                </li>
+                {% endfor %}
+            </ul>
+        </div>
+    </div>
+</section>
