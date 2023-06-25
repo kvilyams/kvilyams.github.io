@@ -1,160 +1,152 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <title>Contact Kristina Vilyams</title>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
+<div class="formbold-main-wrapper">
+  <!-- Author: FormBold Team -->
+  <!-- Learn More: https://formbold.com -->
+  <div class="formbold-form-wrapper">
+    <form action="https://formbold.com/s/FORM_ID" method="POST">
+      <div class="formbold-mb-5">
+        <label for="name" class="formbold-form-label"> Full Name </label>
+        <input
+          type="text"
+          name="name"
+          id="name"
+          placeholder="Full Name"
+          class="formbold-form-input"
+        />
+      </div>
 
-    <link rel="icon" type="image/png" href="images/icons/favicon.ico"/>
+      <div class="formbold-mb-5">
+        <label for="email" class="formbold-form-label"> Email Address </label>
+        <input
+          type="email"
+          name="email"
+          id="email"
+          placeholder="Enter your email"
+          class="formbold-form-input"
+        />
+      </div>
 
-    <link rel="stylesheet" type="text/css" href="vendor/bootstrap/css/bootstrap.min.css">
+      <div class="formbold-mb-5">
+        <label for="subject" class="formbold-form-label"> Subject </label>
+        <input
+          type="text"
+          name="subject"
+          id="subject"
+          placeholder="Enter your subject"
+          class="formbold-form-input"
+        />
+      </div>
 
-    <link rel="stylesheet" type="text/css" href="fonts/font-awesome-4.7.0/css/font-awesome.min.css">
+      <div class="formbold-mb-5">
+        <label for="message" class="formbold-form-label"> Message </label>
+        <textarea
+          rows="6"
+          name="message"
+          id="message"
+          placeholder="Type your message"
+          class="formbold-form-input"
+        ></textarea>
+      </div>
 
-    <link rel="stylesheet" type="text/css" href="vendor/animate/animate.css">
+      <div>
+        <button class="formbold-btn">Submit</button>
+      </div>
+    </form>
+  </div>
+</div>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
+  * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    font-family: "Inter", sans-serif;
+  }
+  .formbold-mb-5 {
+    margin-bottom: 20px;
+  }
+  .formbold-pt-3 {
+    padding-top: 12px;
+  }
+  .formbold-main-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 48px;
+  }
 
-    <link rel="stylesheet" type="text/css" href="vendor/css-hamburgers/hamburgers.min.css">
+  .formbold-form-wrapper {
+    margin: 0 auto;
+    max-width: 550px;
+    width: 100%;
+    background: white;
+  }
+  .formbold-form-label {
+    display: block;
+    font-weight: 500;
+    font-size: 16px;
+    color: #07074d;
+    margin-bottom: 12px;
+  }
+  .formbold-form-label-2 {
+    font-weight: 600;
+    font-size: 20px;
+    margin-bottom: 20px;
+  }
 
-    <link rel="stylesheet" type="text/css" href="vendor/animsition/css/animsition.min.css">
+  .formbold-form-input {
+    width: 100%;
+    padding: 12px 24px;
+    border-radius: 6px;
+    border: 1px solid #e0e0e0;
+    background: white;
+    font-weight: 500;
+    font-size: 16px;
+    color: #6b7280;
+    outline: none;
+    resize: none;
+  }
+  .formbold-form-input:focus {
+    border-color: #6a64f1;
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.05);
+  }
 
-    <link rel="stylesheet" type="text/css" href="vendor/select2/select2.min.css">
+  .formbold-btn {
+    text-align: center;
+    font-size: 16px;
+    border-radius: 6px;
+    padding: 14px 32px;
+    border: none;
+    font-weight: 600;
+    background-color: #6a64f1;
+    color: white;
+    cursor: pointer;
+  }
+  .formbold-btn:hover {
+    box-shadow: 0px 3px 8px rgba(0, 0, 0, 0.05);
+  }
 
-    <link rel="stylesheet" type="text/css" href="vendor/daterangepicker/daterangepicker.css">
-
-    <link rel="stylesheet" type="text/css" href="css/util.css">
-    <link rel="stylesheet" type="text/css" href="css/main.css">
-
-    <meta name="robots" content="noindex, follow">
-    <script nonce="7fceaa02-7fad-4f0c-887c-1672bb3bb705">
-    (function(w, d) {
-        !function(dK, dL, dM, dN) {
-            dK[dM] = dK[dM] || {};
-            dK[dM].executed = [];
-            dK.zaraz = {
-                deferred: [],
-                listeners: []
-            };
-            dK.zaraz.q = [];
-            dK.zaraz._f = function(dO) {
-                return function() {
-                    var dP = Array.prototype.slice.call(arguments);
-                    dK.zaraz.q.push({
-                        m: dO,
-                        a: dP
-                    })
-                }
-            };
-            for (const dQ of ["track", "set", "debug"])
-                dK.zaraz[dQ] = dK.zaraz._f(dQ);
-            dK.zaraz.init = () => {
-                var dR = dL.getElementsByTagName(dN)[0],
-                    dS = dL.createElement(dN),
-                    dT = dL.getElementsByTagName("title")[0];
-                dT && (dK[dM].t = dL.getElementsByTagName("title")[0].text);
-                dK[dM].x = Math.random();
-                dK[dM].w = dK.screen.width;
-                dK[dM].h = dK.screen.height;
-                dK[dM].j = dK.innerHeight;
-                dK[dM].e = dK.innerWidth;
-                dK[dM].l = dK.location.href;
-                dK[dM].r = dL.referrer;
-                dK[dM].k = dK.screen.colorDepth;
-                dK[dM].n = dL.characterSet;
-                dK[dM].o = (new Date).getTimezoneOffset();
-                if (dK.dataLayer)
-                    for (const dX of Object.entries(Object.entries(dataLayer).reduce(((dY, dZ) => ({
-                        ...dY[1],
-                        ...dZ[1]
-                    })), {})))
-                        zaraz.set(dX[0], dX[1], {
-                            scope: "page"
-                        });
-                dK[dM].q = [];
-                for (; dK.zaraz.q.length;) {
-                    const d_ = dK.zaraz.q.shift();
-                    dK[dM].q.push(d_)
-                }
-                dS.defer = !0;
-                for (const ea of [localStorage, sessionStorage])
-                    Object.keys(ea || {}).filter((ec => ec.startsWith("_zaraz_"))).forEach((eb => {
-                        try {
-                            dK[dM]["z_" + eb.slice(7)] = JSON.parse(ea.getItem(eb))
-                        } catch {
-                            dK[dM]["z_" + eb.slice(7)] = ea.getItem(eb)
-                        }
-                    }));
-                dS.referrerPolicy = "origin";
-                dS.src = "/cdn-cgi/zaraz/s.js?z=" + btoa(encodeURIComponent(JSON.stringify(dK[dM])));
-                dR.parentNode.insertBefore(dS, dR)
-            };
-            ["complete", "interactive"].includes(dL.readyState) ? zaraz.init() : dK.addEventListener("DOMContentLoaded", zaraz.init)
-        }(w, d, "zarazData", "script");
-    })(window, document);
-    </script>
-</head>
-<body>
-    <div class="container-contact100">
-        <div class="wrap-contact100">
-            <form class="contact100-form validate-form">
-                <span class="contact100-form-title">
-                Send Us A Message
-                </span>
-                <div class="wrap-input100 validate-input" data-validate="Please enter your name">
-                    <input class="input100" type="text" name="name" placeholder="Full Name">
-                    <span class="focus-input100"></span>
-                </div>
-                <div class="wrap-input100 validate-input" data-validate="Please enter your email: e@a.x">
-                    <input class="input100" type="text" name="email" placeholder="E-mail">
-                    <span class="focus-input100"></span>
-                </div>
-                <div class="wrap-input100 validate-input" data-validate="Please enter your phone">
-                    <input class="input100" type="text" name="phone" placeholder="Phone">
-                    <span class="focus-input100"></span>
-                </div>
-                <div class="wrap-input100 validate-input" data-validate="Please enter your message">
-                    <textarea class="input100" name="message" placeholder="Your Message"></textarea>
-                    <span class="focus-input100"></span>
-                </div>
-                <div class="container-contact100-form-btn">
-                    <button class="contact100-form-btn">
-                        <span>
-                            <i class="fa fa-paper-plane-o m-r-6" aria-hidden="true"></i>
-
-                            Send
-                        </span>
-                    </button>
-                </div>
-            </form>
-        </div>
-    </div>
-    <div id="dropDownSelect1"></div>
-
-    <script src="vendor/jquery/jquery-3.2.1.min.js"></script>
-
-    <script src="vendor/animsition/js/animsition.min.js"></script>
-
-    <script src="vendor/bootstrap/js/popper.js"></script>
-    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
-
-    <script src="vendor/select2/select2.min.js"></script>
-
-    <script src="vendor/daterangepicker/moment.min.js"></script>
-    <script src="vendor/daterangepicker/daterangepicker.js"></script>
-
-    <script src="vendor/countdowntime/countdowntime.js"></script>
-
-    <script src="js/main.js"></script>
-
-    <script async src="https://www.googletagmanager.com/gtag/js?id=UA-23581568-13"></script>
-    <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-        dataLayer.push(arguments);
+  .formbold--mx-3 {
+    margin-left: -12px;
+    margin-right: -12px;
+  }
+  .formbold-px-3 {
+    padding-left: 12px;
+    padding-right: 12px;
+  }
+  .flex {
+    display: flex;
+  }
+  .flex-wrap {
+    flex-wrap: wrap;
+  }
+  .w-full {
+    width: 100%;
+  }
+  @media (min-width: 540px) {
+    .sm\:w-half {
+      width: 50%;
     }
-    gtag('js', new Date());
-
-    gtag('config', 'UA-23581568-13');
-    </script>
-    <script defer src="https://static.cloudflareinsights.com/beacon.min.js/v52afc6f149f6479b8c77fa569edb01181681764108816" integrity="sha512-jGCTpDpBAYDGNYR5ztKt4BQPGef1P0giN6ZGVUi835kFF88FOmmn8jBQWNgrNd8g/Yu421NdgWhwQoaOPFflDw==" data-cf-beacon='{"rayId":"7dcf0fbfaea2959d","token":"cd0b4b3a733644fc843ef0b185f98241","version":"2023.4.0","si":100}' crossorigin="anonymous"></script>
-</body>
-</html>
+  }
+</style>
